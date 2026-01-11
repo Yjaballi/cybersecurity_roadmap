@@ -245,3 +245,50 @@ Cloud Security precisa existir **antes, durante e depois do deploy**.
 
 > Cloud muda rápido.  
 > **Fundamentos bons duram décadas.**
+
+---
+
+## 🏢 Fabricantes (Exemplos) – Cloud Security no Mundo Real
+
+> Exemplos de fabricantes/plataformas comuns por domínio (não é lista exaustiva).
+
+### CSPM / CNAPP / Postura & Exposição
+- Wiz
+- Palo Alto Prisma Cloud
+- Microsoft Defender for Cloud
+- Orca Security
+- Lacework
+- Check Point CloudGuard
+- Crowdstrike
+
+### Workload / Container Runtime / Cloud Workload Protection
+- CrowdStrike (Falcon Cloud Security)
+- Sysdig
+- Aqua Security
+- Trend Micro (Cloud One)
+- Palo Alto Prisma (CWPP)
+
+### Identidade / CIEM / Access Governance (cloud/híbrido)
+- Microsoft Entra ID (Azure AD)
+- Okta
+- Ping Identity
+- SailPoint
+- CyberArk (PAM)
+- ManageEngine
+
+### Logs / SIEM / Detecção (cloud + enterprise)
+- Microsoft Sentinel
+- Splunk
+- Google Chronicle (Security Operations)
+- Elastic Security
+- Datadog Security (quando aplicável)
+- ManageEngine
+
+### WAAP / WAF / Proteção de borda para apps e APIs
+- Akamai
+- Cloudflare
+- F5
+- Imperva
+- Cequence
+
+---
