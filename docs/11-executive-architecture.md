@@ -192,3 +192,198 @@ Esta trilha aborda **arquitetura de segurança e liderança executiva**, conecta
 - CISO traduz caos técnico em clareza executiva
 
 ---
+## 📚 Livros Essenciais de Arquitetura de Cibersegurança & Liderança
+
+Esta seleção reúne **livros clássicos e amplamente reconhecidos** para quem atua (ou quer atuar) em **arquitetura de segurança, tomada de decisão executiva, estratégia e governança**.
+
+São leituras comuns entre:
+- Security Architects
+- CISOs
+- Líderes técnicos seniores
+- Profissionais de GRC com viés estratégico
+
+---
+
+## 🏗️ Arquitetura de Segurança (Base Técnica + Decisão)
+
+### Security Engineering: A Guide to Building Dependable Distributed Systems  
+**Autor:** Ross Anderson  
+
+📌 **Livro fundamental da área**.  
+Não é tutorial, é **formação de arquiteto**.
+
+Cobre:
+- Princípios de arquitetura de segurança
+- Trade-offs reais (segurança × custo × usabilidade)
+- Falhas históricas e por que controles falham
+- Sistemas distribuídos, identidade, confiança e governança
+
+> Leitura obrigatória para qualquer **Security Architect sério**.
+
+---
+
+### Enterprise Security Architecture: A Business-Driven Approach  
+**Autor:** Sherwood, Clark, Lynas (SABSA)
+
+📌 **Base conceitual do SABSA**.
+
+Cobre:
+- Arquitetura orientada a negócio
+- Tradução de requisitos de negócio em controles técnicos
+- Camadas conceituais → lógicas → físicas
+- Arquitetura como ferramenta de decisão executiva
+
+---
+
+### Designing Secure Systems  
+**Autores:** Liran Tal, Adar Weidman  
+
+📌 Livro moderno focado em **design seguro**, não em ferramentas.
+
+Cobre:
+- Threat modeling aplicado
+- Arquitetura defensiva
+- Integração de segurança desde o design
+- Casos reais de sistemas modernos
+
+---
+
+## 🧭 Estratégia, Risco & Tomada de Decisão
+
+### Measuring and Managing Information Risk (FAIR)  
+**Autor:** Jack Freund, Jack Jones  
+
+📌 Referência mundial em **quantificação de risco**.
+
+Cobre:
+- Análise quantitativa de risco
+- Decisão baseada em impacto financeiro
+- Comunicação com executivos
+- Base do modelo FAIR
+
+> Essencial para CISOs que precisam **defender orçamento com dados**.
+
+---
+
+### How to Measure Anything in Cybersecurity Risk  
+**Autor:** Douglas Hubbard, Richard Seiersen  
+
+📌 Complementa o FAIR com **mentalidade analítica**.
+
+Cobre:
+- Como medir risco mesmo com incerteza
+- Tomada de decisão sob dados imperfeitos
+- Erros comuns de métricas de segurança
+
+---
+
+## ☁️ Arquitetura Moderna (Cloud, Zero Trust, Escala)
+
+### Zero Trust Networks  
+**Autores:** Evan Gilman, Doug Barth  
+
+📌 Livro-base sobre **Zero Trust como arquitetura**, não produto.
+
+Cobre:
+- Identity-first security
+- Segmentação lógica
+- Aplicação prática de Zero Trust
+- Casos reais de adoção
+
+---
+
+### Practical Cloud Security  
+**Autor:** Chris Dotson  
+
+📌 Extremamente prático, muito usado por arquitetos cloud.
+
+Cobre:
+- IAM como perímetro
+- Logging e visibilidade
+- Arquitetura segura em cloud
+- Resposta a incidentes arquitetural
+
+---
+
+### Designing Secure Cloud Architecture  
+**Autor:** Michael S. Smith  
+
+📌 Foco em **arquitetura**, não em vendor.
+
+Cobre:
+- Cloud-native security design
+- Padrões reutilizáveis
+- Trade-offs entre segurança e escalabilidade
+- Multi-cloud e híbrido
+
+---
+
+## 🧠 Liderança, Governança & C-Level
+
+### The CISO Evolution  
+**Autor:** Matthew K. Sharp  
+
+📌 Livro focado na **evolução real do papel do CISO**.
+
+Cobre:
+- Transição de técnico para executivo
+- Comunicação com board
+- Gestão de crise
+- Segurança como habilitador do negócio
+
+---
+
+### CISO Desk Reference Guide  
+**Autores:** Bill Bonney et al.  
+
+📌 Guia prático para CISOs em operação real.
+
+Cobre:
+- Estruturação de programas de segurança
+- Métricas, relatórios e governança
+- Gestão de fornecedores
+- Crises e incidentes de alto impacto
+
+---
+
+### The Art of Risk Management  
+**Autor:** Christopher L. Culp  
+
+📌 Complementa visão técnica com **gestão executiva de risco**.
+
+Cobre:
+- Risco corporativo
+- Decisão sob incerteza
+- Alinhamento com estratégia de negócio
+
+---
+
+## 🎯 Como Usar Esta Biblioteca
+
+- 📌 **Arquitetos:** comece por *Security Engineering* e *SABSA*  
+- 📌 **CISOs:** priorize *FAIR*, *CISO Evolution* e *CISO Desk Reference*  
+- 📌 **Cloud / Zero Trust:** *Practical Cloud Security* + *Zero Trust Networks*  
+- 📌 **GRC estratégico:** *Measuring and Managing Information Risk*
+
+> 📌 **Arquitetura não é decorar framework.**  
+> É **entender sistemas, pessoas, risco e negócio ao mesmo tempo**.
+
+---
+
+## ⚠️ Observação Importante
+
+Esses livros:
+- ❌ não são rápidos
+- ❌ não são “checklist”
+- ❌ não ensinam ferramenta
+
+Mas:
+- ✅ formam visão sistêmica
+- ✅ melhoram decisões difíceis
+- ✅ diferenciam **líder técnico** de **operador sênior**
+
+---
+
+> Arquitetura boa não elimina risco.  
+> **Ela garante que o risco assumido seja consciente.**
+
