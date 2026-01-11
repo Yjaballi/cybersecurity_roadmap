@@ -432,7 +432,7 @@ YouTube: https://www.youtube.com/@penegui
 - Conteúdo didático e técnico
 - Excelente base para quem está estruturando o conhecimento
 
-YouTube: https://www.youtube.com/@juliodellaflora
+YouTube: https://www.youtube.com/@HardwareHacking
 
 ---
 
