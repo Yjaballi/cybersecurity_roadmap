@@ -380,3 +380,149 @@ Ciclo prático:
 - SOAR → escala operação  
 
 Tudo isso é **Blue Team**, em momentos diferentes do ataque.
+
+---
+
+## 🏭 Fabricantes de Soluções Diversas (Ecossistema Blue Team / SOC)
+
+Esta seção apresenta **fabricantes relevantes no ecossistema de operações de segurança**, cobrindo **monitoramento, detecção, resposta, visibilidade, automação e proteção de aplicações expostas**.
+
+O objetivo **não é prescrever stack**, mas ajudar a entender:
+- quais categorias de soluções existem no mercado,
+- onde cada tipo de ferramenta se encaixa no SOC,
+- como essas soluções se complementam operacionalmente.
+
+---
+
+### 📊 SIEM / Centralização e Correlação
+
+- **Splunk**
+  - SIEM, analytics e correlação em larga escala
+  - Forte em ambientes complexos e altamente customizáveis
+
+- **Elastic (Elastic Security)**
+  - SIEM e observabilidade
+  - Forte em ambientes cloud e ecossistemas open source
+
+- **IBM QRadar**
+  - SIEM corporativo tradicional
+  - Fluxo operacional bem definido para SOC
+
+- **Microsoft Sentinel**
+  - SIEM nativo em nuvem
+  - Forte integração com o ecossistema Microsoft
+
+- **Wazuh**
+  - SIEM / XDR open source
+  - Forte em ambientes híbridos e Linux
+
+- **ManageEngine (Log360 / EventLog Analyzer)**
+  - SIEM com foco em ambientes corporativos
+  - Forte integração com Active Directory e identidade
+  - Boa relação entre visibilidade, custo e operação
+
+---
+
+### 🖥️ Endpoint Detection & Response (EDR / XDR)
+
+- **CrowdStrike**
+  - EDR/XDR baseado em comportamento
+  - Forte em resposta rápida e threat hunting
+
+- **Microsoft Defender**
+  - EDR/XDR integrado ao Windows, identidade e cloud
+  - Alta cobertura em ambientes Microsoft
+
+- **Sophos**
+  - EDR/XDR com correlação entre endpoint e rede
+  - Boa visibilidade e resposta coordenada
+
+- **SentinelOne**
+  - EDR focado em automação, rollback e contenção autônoma
+  - Forte em resposta imediata a incidentes
+
+- **Trend Micro**
+  - EDR/XDR com foco em **endpoint, workload e cloud**
+  - Forte integração com proteção de servidores
+  - Boa visibilidade para resposta em ambientes híbridos
+
+---
+
+### 🌐 Network Detection & Response (NDR) / NTA
+
+- **ExtraHop**
+  - Análise comportamental de tráfego
+  - Detecção fora do endpoint
+  - Forte em ambientes de alta visibilidade de rede
+
+- **Darktrace**
+  - Detecção baseada em anomalias
+  - Visibilidade em rede, cloud e ambientes híbridos
+
+- **Vectra AI**
+  - Detecção comportamental focada em tráfego e identidade
+  - Forte em ambientes híbridos
+
+- **Lumu**
+  - **NTA (Network Traffic Analysis) com foco em comprometimento**
+  - Detecção de comunicação com infraestrutura maliciosa (C2, IOC-based)
+  - Correlação de tráfego DNS, NetFlow e logs de rede
+  - Muito usada para **detecção precoce e resposta orientada a risco**
+---
+
+### 🔐 Perímetro, Aplicações e Exposição  
+**(WAAP & API Security)**
+
+- **Cloudflare**
+  - Proteção DDoS, WAF e edge security
+  - Forte em aplicações expostas à Internet
+
+- **Akamai**
+  - WAAP (WAF, API Security, Bot Management)
+  - Proteção de aplicações e APIs em escala global
+
+- **Imperva**
+  - WAF e proteção de aplicações
+  - Forte em ambientes corporativos e regulados
+
+- **Cequence**
+  - **WAAP e API Security especializados**
+  - Proteção contra abuso de APIs, automação maliciosa e fraudes
+  - Forte em **lógica de negócio, APIs REST/GraphQL e bots**
+  - Muito usada em ambientes com alto volume de transações e integrações
+
+---
+
+### 🔄 Automação & Orquestração (SOAR)
+
+- **Splunk SOAR**
+  - Automação de playbooks
+  - Integração profunda com SIEM
+
+- **Cortex XSOAR (Palo Alto Networks)**
+  - SOAR robusto e integrado ao XDR
+  - Forte em resposta coordenada
+
+- **Swimlane**
+  - SOAR focado em workflows e automação
+  - Integração ampla com ferramentas de SOC
+
+- **ManageEngine (SOAR / Automation)**
+  - Automação de resposta e workflows
+  - Integração com SIEM, identidade e ITSM
+  - Boa opção para SOCs corporativos e híbridos
+
+---
+
+### 📌 Observação Importante
+
+- Ferramentas **não fazem SOC sozinhas**
+- Integração vale mais que quantidade
+- SIEM sem processo vira ruído
+- EDR sem resposta vira alerta isolado
+- SOAR sem critério automatiza erro
+
+> 💡 **Regra prática do Blue Team**  
+> Primeiro entenda **o fluxo operacional do SOC**.  
+> Depois escolha **as ferramentas que sustentam esse fluxo**.
+
