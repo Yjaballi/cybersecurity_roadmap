@@ -83,9 +83,10 @@ Este repositório reúne **carreiras, trilhas técnicas, habilidades e certifica
 - [Cloud Security](docs/05-cloud-security.md)
 - [DevSecOps & Kubernetes](docs/06-devsecops-k8s.md)
 
-### 🔐 Identidade, Governança & Risco
+### 🔐 Identidade, Governança, Risco & Direito
 - [IAM & Zero Trust](docs/07-iam-zero-trust.md)
 - [GRC, Risco e Privacidade](docs/08-grc-risk-privacy.md)
+- [Direito Digital & Cyber Law](docs/16-direito-digital.md)
 
 ### 🧠 Inteligência & Ambientes Especiais
 - [Cyber Threat Intelligence](docs/09-cti.md)
@@ -95,6 +96,7 @@ Este repositório reúne **carreiras, trilhas técnicas, habilidades e certifica
 - [Arquitetura & Executivo](docs/11-executive-architecture.md)
 - [Segurança de IA](docs/12-ai-security.md)
 - [Segurança Blockchain & WEB3](docs/15-blockchain-security.md)
+
 
 ---
 
