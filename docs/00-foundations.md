@@ -226,3 +226,194 @@ https://www.netacad.com/courses/english-for-it/english-for-it-2
 ### 🇧🇷 Conteúdo em Português
 - Bóson Treinamentos  
   https://www.youtube.com/@bosontreinamentos
+
+---
+
+  # 📚 Livros Essenciais de Redes de Computadores
+
+Esta lista reúne **livros clássicos e amplamente reconhecidos** para o estudo profundo de **redes de computadores**, cobrindo desde **fundamentos teóricos** até **protocolos, arquitetura, desempenho e troubleshooting**.
+
+São livros usados em **universidades, engenharia de redes e segurança**, e formam a base real para áreas como:
+- Cibersegurança
+- SOC / Blue Team
+- Cloud
+- Infraestrutura
+- Protocolos e tráfego
+- Arquitetura de sistemas distribuídos
+
+---
+
+## 🧱 Fundamentos Clássicos (Base Obrigatória)
+
+### Computer Networks
+**Autores:** Andrew S. Tanenbaum, David J. Wetherall  
+
+📌 **Por que é essencial:**  
+É a referência clássica e mais completa sobre redes de computadores.
+
+**Cobre:**
+- Modelo OSI e TCP/IP
+- Camadas, protocolos e arquitetura
+- Ethernet, Wireless, Switching, Routing
+- Controle de congestionamento
+- Segurança em redes
+- Casos práticos e visão acadêmica sólida
+
+> Livro ideal para **entender como a rede funciona de verdade**, não apenas como configurar.
+
+---
+
+### Data Communications and Networking
+**Autor:** Behrouz A. Forouzan  
+
+📌 **Por que é essencial:**  
+Excelente para **fundamentos conceituais**, com linguagem clara e progressiva.
+
+**Cobre:**
+- Comunicação de dados
+- OSI e TCP/IP
+- Codificação, multiplexação
+- Protocolos e endereçamento
+- Introdução a redes modernas
+
+> Muito usado como **primeiro livro sério de redes**.
+
+---
+
+## 🌐 Protocolos, Arquitetura e Internet
+
+### TCP/IP Illustrated – Volume 1
+**Autor:** W. Richard Stevens  
+
+📌 **Por que é essencial:**  
+Referência absoluta sobre **TCP/IP em nível profundo**.
+
+**Cobre:**
+- IP, ICMP, ARP
+- TCP, UDP
+- Handshakes, estados e fluxos
+- Funcionamento real dos protocolos na pilha
+
+> Leitura obrigatória para quem analisa tráfego, logs e incidentes.
+
+---
+
+### Internetworking with TCP/IP
+**Autor:** Douglas E. Comer  
+
+📌 **Por que é essencial:**  
+Excelente equilíbrio entre teoria e prática.
+
+**Cobre:**
+- Arquitetura da Internet
+- Endereçamento e roteamento
+- Protocolos principais
+- Design de redes escaláveis
+
+---
+
+## 🔀 Switching, Routing & Desempenho
+
+### High Performance Browser Networking
+**Autor:** Ilya Grigorik  
+
+📌 **Por que é essencial:**  
+Livro moderno focado em **desempenho de rede para aplicações**.
+
+**Cobre:**
+- Latência e throughput
+- TCP, TLS, HTTP/2, QUIC
+- Impacto da rede em aplicações web
+- Otimização real de tráfego
+
+> Ponte perfeita entre **redes + aplicações + segurança**.
+
+---
+
+### Routing TCP/IP
+**Autores:** Jeff Doyle, Jennifer Carroll  
+
+📌 **Por que é essencial:**  
+Livro clássico sobre **roteamento em profundidade**.
+
+**Cobre:**
+- Conceitos de roteamento
+- Protocolos de roteamento
+- Design e troubleshooting
+- Escalabilidade de redes
+
+---
+
+## 🔐 Redes & Segurança (Base Técnica)
+
+### Network Security Essentials
+**Autor:** William Stallings  
+
+📌 **Por que é essencial:**  
+Conecta **redes tradicionais com segurança da informação**.
+
+**Cobre:**
+- Criptografia aplicada a redes
+- VPNs
+- Firewalls
+- Autenticação e controle de acesso
+- Segurança em protocolos
+
+---
+
+### Practical Packet Analysis
+**Autor:** Chris Sanders  
+
+📌 **Por que é essencial:**  
+Introdução prática à **análise de pacotes**.
+
+**Cobre:**
+- Leitura de tráfego
+- TCP/IP na prática
+- Diagnóstico de falhas
+- Base para SOC e IR
+
+---
+
+## 🧠 Sistemas Distribuídos (Complementar)
+
+### Distributed Systems
+**Autores:** Andrew S. Tanenbaum, Maarten van Steen  
+
+📌 **Por que é relevante:**  
+Expande o entendimento de redes para **sistemas modernos e distribuídos**.
+
+**Cobre:**
+- Comunicação entre processos
+- Consistência e falhas
+- Sincronização
+- Arquitetura de sistemas distribuídos
+
+---
+
+## 🎯 Como usar esta lista
+
+- 📌 Comece pelos **fundamentos clássicos**
+- 📌 Avance para **TCP/IP e protocolos**
+- 📌 Aprofunde em **tráfego e desempenho**
+- 📌 Conecte com **segurança e observabilidade**
+
+> 💡 Redes não são uma etapa inicial da carreira.  
+> São uma **competência permanente**.
+
+---
+
+## ⚠️ Observação Importante
+
+Esses livros:
+- ❌ não são rápidos
+- ❌ não são superficiais
+- ❌ não prometem atalhos
+
+Mas:
+- ✅ constroem base sólida
+- ✅ explicam o *porquê* das coisas
+- ✅ diferenciam profissionais no médio e longo prazo
+
+---
+
