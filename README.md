@@ -26,3 +26,4 @@ Este repositório reúne **carreiras, trilhas técnicas, habilidades e certifica
 - [Cyber Threat Intelligence](docs/09-cti.md)
 - [OT / ICS Security](docs/10-ot-ics.md)
 - [Arquitetura & Executivo](docs/11-executive-architecture.md)
+- [Segurança de IA](docs/12-ai-security.md)
