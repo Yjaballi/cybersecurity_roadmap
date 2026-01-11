@@ -186,3 +186,4 @@ Esta seção separa **cursos (formação e aprendizado)** de **certificações (
   > Validação vendor neutral de fundamentos de redes, protocolos e operações.
 
 ---
+*** Essas certificações não necessariamente precisam ser feitas. Estudar o conteúdo delas pode ajudar e ser enriquecedor.
