@@ -212,3 +212,187 @@ Ferramentas open source:
 - Policy as Code é controle real
 - Runtime é onde o ataque acontece
 - Supply chain é o novo alvo
+
+
+---
+
+# 🏭 Fabricantes & Plataformas — DevSecOps & Kubernetes Security
+
+Este documento lista **fabricantes e plataformas amplamente usados no mercado** para **DevSecOps, Kubernetes Security, Cloud Native Security e Supply Chain Security**.
+
+> ⚠️ **Importante**  
+> Fabricantes **não substituem fundamentos**.  
+> Eles **implementam controles**, mas **quem garante segurança é arquitetura + processo + engenharia**.
+
+A lista está organizada **por domínio técnico**, refletindo **uso real em ambientes maduros**.
+
+---
+
+## 📦 IaC Security & Policy as Code
+
+Ferramentas focadas em **segurança de infraestrutura como código**, validação preventiva e enforcement técnico.
+
+### Fabricantes / Plataformas
+- **Palo Alto Networks – Prisma Cloud (IaC Security)**
+- **Check Point – CloudGuard**
+- **Snyk IaC**
+- **Bridgecrew (Checkov)**
+- **Aqua Security (IaC & Cloud Native)**
+- **HashiCorp Sentinel** (policy as code)
+- **Sysdig Secure (IaC context)**
+- **Tenable Cloud Security** (IaC + misconfiguration + exposure context)
+
+---
+
+## 🐳 Container Image Security & Registry Protection
+
+Proteção de imagens, dependências, registries e pipelines de build.
+
+### Fabricantes / Plataformas
+- **Aqua Security**
+- **Sysdig Secure**
+- **Anchore**
+- **Snyk Container**
+- **JFrog Xray**
+- **Docker Scout**
+- **Palo Alto Prisma Cloud (Container Security)**
+- **Trend Micro Cloud One – Container Security**
+- **Tenable Container Security** (vulnerabilities + exposure)
+
+---
+
+## ☸️ Kubernetes Security (Cluster, Workloads & Configuração)
+
+Segurança de clusters, namespaces, RBAC, policies e hardening.
+
+### Fabricantes / Plataformas
+- **Aqua Security**
+- **Sysdig Secure**
+- **Palo Alto Prisma Cloud**
+- **Check Point CloudGuard**
+- **ARMO / Kubescape**
+- **Red Hat Advanced Cluster Security (ACS)**
+- **VMware Tanzu Security**
+- **Google GKE Security / Anthos Security**
+- **Microsoft Defender for Containers**
+- **Tenable Cloud Security (K8s posture + risk)**
+
+---
+
+## 🧠 Admission Control & Policy Enforcement
+
+Validação e bloqueio de configurações inseguras **no momento do deploy**.
+
+### Fabricantes / Plataformas
+- **OPA / Gatekeeper**
+- **Kyverno**
+- **HashiCorp Sentinel**
+- **Red Hat Advanced Cluster Security**
+- **Palo Alto Prisma Cloud (policy engine)**
+
+---
+
+## 🧬 Runtime Security (Detecção & Resposta)
+
+Detecção comportamental, syscalls, eBPF e resposta em tempo real.
+
+### Fabricantes / Plataformas
+- **Aqua Security**
+- **Sysdig Secure**
+- **Falco (CNCF)**
+- **Cilium / Tetragon**
+- **Trend Micro Cloud One**
+- **CrowdStrike Falcon Cloud Security**
+- **Palo Alto Prisma Cloud (Runtime Protection)**
+
+---
+
+## 🌐 Microsegmentação & Zero Trust Leste–Oeste
+
+Proteção de **tráfego interno**, workloads, containers e VMs, com foco em **Zero Trust** e **redução de blast radius**.
+
+> 📌 Essencial em Kubernetes, cloud híbrida e ambientes distribuídos.
+
+### Fabricantes / Plataformas
+- **Akamai Guardicore (Microsegmentation)**
+- **Illumio**
+- **VMware NSX**
+- **Cisco Secure Workload (Tetration)**
+- **Palo Alto Prisma Cloud (Microsegmentation features)**
+- **Cilium (eBPF-based networking & security)**
+
+---
+
+## 🔗 Supply Chain Security (CI/CD & Proveniência)
+
+Proteção do pipeline, integridade de artefatos e ataques à cadeia de suprimentos.
+
+### Fabricantes / Plataformas
+- **GitHub Advanced Security**
+- **GitLab Ultimate (DevSecOps)**
+- **Snyk**
+- **JFrog Xray**
+- **Sigstore (cosign)**
+- **in-toto**
+- **Google SLSA**
+- **Chainguard**
+
+---
+
+## 📊 CNAPP / Exposure Management (Visão Unificada)
+
+Plataformas que correlacionam **configuração, vulnerabilidade, identidade e exposição real**.
+
+### Fabricantes / Plataformas
+- **Palo Alto Networks – Prisma Cloud**
+- **Aqua Security Platform**
+- **Sysdig Secure**
+- **Check Point CloudGuard**
+- **Wiz**
+- **Orca Security**
+- **Lacework**
+- **Microsoft Defender for Cloud**
+- **Tenable Cloud Security / Tenable One**
+
+> 📌 Aqui entra **exposure management**, não só posture.
+
+---
+
+## 🔐 Identidade & Secrets (Plataforma & Pipelines)
+
+Gestão de identidade, segredos e acesso em ambientes cloud native.
+
+### Fabricantes / Plataformas
+- **HashiCorp Vault**
+- **CyberArk**
+- **AWS Secrets Manager**
+- **Azure Key Vault**
+- **Google Secret Manager**
+- **Doppler**
+- **Akeyless**
+
+---
+
+## 🧭 Como Usar Esta Lista
+
+- 📌 **Não escolha ferramenta antes do problema**
+- 📌 Avalie seu **nível de maturidade**
+- 📌 Priorize **prevenção + visibilidade + runtime**
+- 📌 Entenda onde entra **microsegmentação**
+- 📌 Evite sobreposição de ferramentas
+
+> 💡 Ambientes maduros usam **menos ferramentas, melhor integradas**.
+
+---
+
+## ⚠️ Observação Final
+
+- Fabricantes mudam
+- Features migram
+- Produtos se fundem
+
+👉 **Fundamentos, arquitetura e método permanecem.**
+
+DevSecOps e Kubernetes Security **não são tool-driven**.  
+São **engineering-driven**.
+
