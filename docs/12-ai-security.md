@@ -261,3 +261,193 @@ Certificações emergentes devem ser avaliadas com cautela.
 - Segurança de IA é contínua, não projeto
 
 ---
+## 📚 Livros Essenciais de Segurança em Inteligência Artificial (AI Security)
+
+Esta lista reúne **livros amplamente reconhecidos** por profissionais, pesquisadores e órgãos reguladores para entender **segurança, risco, abuso e governança de sistemas de IA**, incluindo **ML, LLMs, GenAI e sistemas autônomos**.
+
+São leituras usadas por:
+- AI Security Engineers
+- Security Architects
+- CISOs e GRC
+- Pesquisadores de ML Security
+- Times de Red Team / Blue Team focados em IA
+
+---
+
+## 🧱 Fundamentos de IA, Risco e Segurança
+
+### Artificial Intelligence Safety and Security  
+**Autores:** Roman Yampolskiy  
+
+📌 **Livro referência acadêmica** sobre riscos reais de IA.
+
+Cobre:
+- Falhas de segurança em sistemas de IA
+- Ataques adversariais
+- Risco sistêmico e uso indevido
+- Segurança de IA além do hype de GenAI
+
+> Muito citado em pesquisas e debates regulatórios.
+
+---
+
+### Machine Learning Security  
+**Autores:** Ling Huang, Anthony D. Joseph  
+
+📌 Base técnica sólida em **ML Security**.
+
+Cobre:
+- Data poisoning
+- Model extraction
+- Model inversion
+- Ataques adversariais
+- Defesa em pipelines de ML
+
+---
+
+## 🧨 Ataques, Abusos e Adversarial ML
+
+### Adversarial Machine Learning  
+**Autores:** Anthony D. Joseph, Blaine Nelson  
+
+📌 Referência clássica em **ataques contra modelos de ML**.
+
+Cobre:
+- Ataques de evasão
+- Poisoning
+- Robustez de modelos
+- Limitações reais das defesas
+
+---
+
+### The Hundred-Page Machine Learning Book  
+**Autor:** Andriy Burkov  
+
+📌 Não é livro de segurança, mas é **leitura obrigatória** para qualquer profissional de AI Security.
+
+Cobre:
+- Como ML realmente funciona
+- Onde erros e riscos surgem
+- Base necessária para threat modeling em IA
+
+> Segurança sem entender ML vira achismo.
+
+---
+
+## 🤖 LLMs, GenAI & Sistemas Modernos
+
+### Generative AI Security  
+**Autor:** Ben Potter  
+
+📌 Um dos primeiros livros focados **exclusivamente em segurança de GenAI**.
+
+Cobre:
+- Prompt injection
+- Jailbreaks
+- Abuso de LLMs
+- Riscos de automação com IA
+- Controles técnicos e organizacionais
+
+---
+
+### Securing Machine Learning Systems  
+**Autores:** Chris Wysopal et al.  
+
+📌 Abordagem prática conectando **AppSec + ML**.
+
+Cobre:
+- Secure ML pipelines
+- Threat modeling de IA
+- Integração com DevSecOps
+- Segurança de dados e modelos
+
+---
+
+## 🧭 Governança, Ética e Regulação de IA
+
+### The Alignment Problem  
+**Autor:** Brian Christian  
+
+📌 Fundamental para entender **risco sistêmico e desalinhamento de IA**.
+
+Cobre:
+- Decisões automatizadas
+- Impacto social
+- Falhas não técnicas que viram incidentes reais
+
+---
+
+### Weapons of Math Destruction  
+**Autora:** Cathy O’Neil  
+
+📌 Não é técnico, mas é **essencial para GRC e liderança**.
+
+Cobre:
+- Risco de modelos opacos
+- Decisões automatizadas em escala
+- Falhas éticas que viram risco legal e reputacional
+
+---
+
+### Ethics of Artificial Intelligence and Robotics  
+**Autor:** Vincent Müller (Editor)
+
+📌 Referência acadêmica usada em **governança e regulação de IA**.
+
+---
+
+## 🧠 Arquitetura, Segurança & Decisão
+
+### Security Engineering (Applied to AI Systems)  
+**Autor:** Ross Anderson  
+
+📌 Embora não seja específico de IA, é **fundamental para arquitetar sistemas de IA seguros**.
+
+Por quê?
+- IA é sistema distribuído
+- Confiança, identidade, dados e governança continuam valendo
+- Ataques exploram arquitetura, não só modelo
+
+---
+
+### Designing Secure Systems  
+**Autores:** Liran Tal, Adar Weidman  
+
+📌 Aplicável diretamente a **AI-enabled systems**.
+
+Cobre:
+- Design seguro
+- Threat modeling
+- Integração de segurança desde o início
+
+---
+
+## 🎯 Como Usar Esta Lista
+
+- 📌 **Técnicos:** comece por *Machine Learning Security* e *Adversarial ML*
+- 📌 **AppSec / DevSecOps:** *Securing Machine Learning Systems*
+- 📌 **Executivo / GRC:** *Alignment Problem* + *Weapons of Math Destruction*
+- 📌 **Arquitetura:** *Security Engineering* + *Designing Secure Systems*
+
+> 🔎 **AI Security não é mágica**  
+> É **engenharia, dados, risco e decisão — só que em escala maior**.
+
+---
+
+## ⚠️ Observação Importante
+
+Esses livros:
+- ❌ não ensinam prompt bonito
+- ❌ não prometem “IA segura por design”
+- ❌ não vendem ferramenta
+
+Mas:
+- ✅ constroem pensamento crítico
+- ✅ ajudam a antecipar incidentes
+- ✅ preparam para decisões difíceis sobre IA
+
+---
+
+> IA amplia capacidade.  
+> **Segurança de IA amplifica responsabilidade.**
+
