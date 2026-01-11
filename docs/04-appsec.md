@@ -241,3 +241,139 @@ Detecção de chaves e segredos no código.
 - Automação sem contexto falha
 - AppSec é contínuo, não projeto
 - Quem escreve código participa da segurança
+
+---
+
+# 📚 Livros Essenciais de Application Security (AppSec)
+
+Esta lista apresenta **livros reconhecidos e amplamente recomendados** para construção de conhecimento profundo em segurança de aplicações, cobrindo desde princípios, design seguro, análise de código, até testes e melhores práticas.
+
+---
+
+## 🧱 Fundamentos de Segurança de Aplicações
+
+### 🔐 The Web Application Hacker’s Handbook  
+**Autores:** Dafydd Stuttard & Marcus Pinto  
+👉 O clássico absoluto para entender como aplicações web são atacadas e como se defender.  
+Cobre:
+- Ataques e defesas em aplicações web
+- Exploração de lógica e falhas reais
+- Técnicas de reconhecimento, fuzzing, injeções, autenticação, sessões e muito mais.
+
+---
+
+### 🧠 Secure Coding in C and C++  
+**Autor:** Robert C. Seacord  
+👉 Focado em boas práticas de codificação segura em linguagens de baixo nível.  
+Cobre:
+- Prevenção de vulnerabilidades comuns
+- Exploração de memória e mitigação
+- Técnicas de design defensivo
+
+---
+
+## 🔍 Arquitetura e Princípios de AppSec
+
+### 📘 Security Engineering: A Guide to Building Dependable Distributed Systems  
+**Autor:** Ross Anderson  
+👉 Mais do que AppSec — um guia completo sobre segurança de sistemas distribuídos.  
+Cobre:
+- Princípios de segurança
+- Análise de risco
+- Controle de acesso
+- Segurança de protocolos e redes
+
+---
+
+### 🛡️ Threat Modeling: Designing for Security  
+**Autor:** Adam Shostack  
+👉 O livro de referência para **modelagem de ameaças** em aplicações.  
+Cobre:
+- STRIDE, PASTA e outras metodologias
+- Integração de threat modeling em SDLC
+- Casos reais e abordagem prática
+
+---
+
+## 🧪 Testes e Análise
+
+### 🛠️ The Art of Software Security Assessment  
+**Autores:** Mark Dowd, John McDonald & Justin Schuh  
+👉 Um clássico profundo em análise de software.  
+Cobre:
+- Vulnerabilidades em baixo nível
+- Análise estática e dinâmica
+- Técnicas de fuzzing e revisão de código
+
+---
+
+### 🧠 Gray Hat Python – Python Programming for Hackers and Reverse Engineers  
+**Autor:** Justin Seitz  
+👉 Embora com foco em segurança ofensiva, é útil para AppSec com scripts e automação de análise.
+
+---
+
+## 🧪 Prático & Ferramentas
+
+### 🛡️ Web Application Security, A Beginner’s Guide  
+**Autores:** Bryan Sullivan & Vincent Liu  
+👉 Ótimo para quem está **começando** com AppSec de forma prática.  
+Cobre:
+- Conceitos de segurança web
+- Testes práticos
+- Exemplos de ataques reais
+
+---
+
+### 📘 Real-World Bug Hunting  
+**Autor:** Peter Yaworski  
+👉 Casos reais de bugs encontrados em programas de recompensa (bug bounties).  
+Cobre:
+- Exploits em aplicações reais
+- Como pensar como atacante
+- Estratégias de hunting e validação
+
+---
+
+## 📚 Especial APIs & Modern Security
+
+### 📗 API Security in Action  
+**Autor:** Neil Madden  
+👉 Focado em **segurança de APIs** (REST, JWT, OAuth, etc.).  
+Cobre:
+- Proteção de endpoints
+- Autenticação e autorização
+- Ferramentas e padrões modernos
+
+---
+
+### 📘 OAuth 2 in Action  
+**Autores:** Justin Richer & Antonio Sanso  
+👉 Guia prático de um dos protocolos mais usados no mundo moderno.  
+Cobre:
+- OAuth 2 fluxos
+- Segurança de APIs e tokens
+- Melhores práticas de design
+
+---
+
+## 🎯 Dicas de Uso
+
+- 📌 **Comece pelos essenciais** (Web Application Hacker’s Handbook e Threat Modeling)  
+- 📌 **Combine teoria + prática** (leitura + laboratórios)  
+- 📌 **Use livros de APIs** para aplicações modernas (REST/GraphQL)  
+- 📌 **Automação e ferramentas** fazem diferença em ambientes reais
+
+---
+
+## ⚠️ Observação
+
+Esses livros:
+- não são superficiais;
+- exigem tempo e dedicação;
+- constroem **mentalidade defensiva profunda**.  
+
+Mas formam uma base que separa profissionais **que entendem segurança de verdade** daqueles que decoram checklists.
+
+---
+
