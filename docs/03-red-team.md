@@ -108,6 +108,39 @@ Ferramentas:
 
 ---
 
+## 🧰 Fabricantes e Plataformas Usadas em Red Team (Mercado)
+
+> Red Team “de verdade” normalmente envolve **infraestrutura**, **canais controlados**, **simulação de adversário** e **validação operacional**.  
+> Abaixo estão **plataformas amplamente usadas** (comerciais) e onde elas entram.
+
+### 🛰️ Adversary Emulation / Breach & Attack Simulation (BAS)
+- **Picus Security** — validação contínua de controles via simulação (BAS)
+- **AttackIQ** — emulação de TTPs e validação de defesa
+- **SafeBreach** — simulação e verificação contínua de controles
+- **XM Cyber** — foco forte em exposição e caminhos de ataque (attack path management)
+
+### 🎯 External Attack Surface Management (EASM) / Exposure
+- **SOCRadar** — ASM + inteligência de exposição (inclui DRP/brand monitoring em alguns pacotes)
+- **Tenable** — Attack Surface / Exposure Management (dependendo do portfólio e módulos)
+- **Rapid7** — exposição + VM (conforme stack)
+- **Microsoft Defender EASM** — visão de superfície externa (ecossistema MS)
+
+### 🧑‍💻 Pentest / Reporting / Gestão de Evidências
+- **Pentera** — automação de validação ofensiva em ambientes corporativos (mais “security validation”)
+- **Cobalt** — pentest sob demanda (plataforma + rede de testers)
+- **Synack** — plataforma de testes com rede de pesquisadores (modelo gerenciado)
+- **Horizon3.ai** — automação ofensiva com foco em validação
+
+### 🧠 AppSec (suporte ao ofensivo em Web/API)
+- **Burp Suite Professional (PortSwigger)** — padrão de mercado em pentest web
+- **Invicti (Netsparker)** — DAST comercial
+- **Acunetix** — DAST comercial (muito usado em VA/pentest web)
+- **Contrast Security** — IAST / RASP (segurança “dentro” da app em execução)
+
+> 📌 Observação: ferramentas “comerciais” aqui **não substituem pentest**, mas aceleram validação, descoberta e rastreabilidade.
+
+---
+
 ## 📐 Métodos e Frameworks de Pentest
 
 Pentest **profissional** segue metodologia. Framework ≠ burocracia.
@@ -115,15 +148,12 @@ Pentest **profissional** segue metodologia. Framework ≠ burocracia.
 ### Metodologias Reconhecidas
 - **PTES – Penetration Testing Execution Standard**  
   https://www.pentest-standard.org/  
-  > Planejamento → Enumeração → Exploração → Pós-exploração → Relatório.
 
 - **NIST SP 800-115 – Technical Guide to Information Security Testing**  
   https://csrc.nist.gov/publications/detail/sp/800-115/final  
-  > Guia técnico amplamente usado em ambientes regulados.
 
 - **OSSTMM – Open Source Security Testing Methodology Manual**  
   https://www.isecom.org/OSSTMM.3.pdf  
-  > Metodologia focada em mensuração e controle operacional.
 
 ---
 
@@ -143,8 +173,7 @@ Pentest **profissional** segue metodologia. Framework ≠ burocracia.
 
 ### Pentest / Red Team
 - **DESEC – Formação Pentest Profissional**  
-  https://desecsecurity.com/  
-  > Formação prática, forte no mercado brasileiro, com foco real em exploração.
+  https://desecsecurity.com/
 
 - **Offensive Security – Training Catalog**  
   https://www.offsec.com/courses/
@@ -202,27 +231,21 @@ Pentest **profissional** segue metodologia. Framework ≠ burocracia.
 
 - **CompTIA PenTest+**  
   https://www.comptia.org/certifications/pentest  
-  > Pentest prático com foco em planejamento, exploração, pós-exploração e relatório.
 
 - **DESEC Pentest Certified (DPC)**  
   https://desecsecurity.com/certificacoes/  
-  > Certificação prática amplamente reconhecida no Brasil, focada em exploração real.
 
 - **eJPT – Junior Penetration Tester**  
   https://elearnsecurity.com/product/ejpt-certification/  
-  > Introdução prática ao pentest de redes e aplicações.
 
 - **PNPT – Practical Network Penetration Tester (TCM Security)**  
   https://certifications.tcm-sec.com/pnpt/  
-  > Pentest prático com forte foco em Active Directory e relatório profissional.
 
 - **CEH – Certified Ethical Hacker**  
   https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/  
-  > Certificação conceitual e introdutória em hacking ético.
 
 - **GPEN – GIAC Penetration Tester**  
   https://www.giac.org/certifications/penetration-tester-gpen/  
-  > Pentest de redes, metodologias e exploração em ambientes corporativos.
 
 ---
 
@@ -248,7 +271,6 @@ Pentest **profissional** segue metodologia. Framework ≠ burocracia.
 
 - **CREST CRT / CCT**  
   https://www.crest-approved.org/  
-  > Certificações exigidas em diversos contratos internacionais de Red Team.
 
 ---
 
@@ -256,22 +278,18 @@ Pentest **profissional** segue metodologia. Framework ≠ burocracia.
 
 - **CompTIA Security+**  
   https://www.comptia.org/certifications/security  
-  > Base de segurança que ajuda na leitura de ambientes antes do ataque.
 
 - **CompTIA CySA+**  
   https://www.comptia.org/certifications/cysa  
-  > Útil para transição Red ↔ Blue / Purple Team.
 
 ---
 
 ## 📌 Observações Importantes
 
-- **PenTest+** é a principal certificação **vendor-neutral** de pentest da CompTIA.  
-- Certificações práticas (OSCP, PNPT, DPC) têm **peso maior** que teóricas.  
+- Certificações práticas (OSCP, PNPT, DPC) tendem a ter **peso maior** que teóricas.  
 - Certificação **não substitui lab** — mas valida método, ética e maturidade.
 
 ---
-
 
 ## 🔗 Integração com Outras Trilhas
 
@@ -304,22 +322,12 @@ Lista curada de livros **clássicos e amplamente reconhecidos** em **Offensive S
 ### The Web Application Hacker’s Handbook  
 **Autores:** Dafydd Stuttard, Marcus Pinto  
 **Foco:** Pentest Web  
-**Conteúdo-chave:**
-- HTTP, sessões e autenticação
-- SQL Injection, XSS, CSRF
-- Falhas de lógica de negócio
-- Mentalidade ofensiva aplicada a aplicações web
 
 ---
 
 ### Hacking: The Art of Exploitation  
 **Autor:** Jon Erickson  
 **Foco:** Exploração de baixo nível  
-**Conteúdo-chave:**
-- C, memória, stack e heap
-- Buffer overflow
-- Shellcode
-- Exploit development sem dependência de ferramentas prontas
 
 ---
 
@@ -328,46 +336,18 @@ Lista curada de livros **clássicos e amplamente reconhecidos** em **Offensive S
 ### Metasploit: The Penetration Tester’s Guide  
 **Autores:** David Kennedy et al.  
 **Foco:** Exploração com Metasploit  
-**Conteúdo-chave:**
-- Exploits e payloads
-- Pós-exploração
-- Pivoting e automação
-- Uso profissional do framework
 
 ---
 
 ### Red Team Field Manual (RTFM)  
 **Autor:** Ben Clark  
 **Foco:** Red Team operacional  
-**Conteúdo-chave:**
-- Cheatsheets ofensivos
-- Comandos Windows, Linux e Active Directory
-- Enumeração e movimento lateral
-- Uso em campo (guia rápido)
 
 ---
 
 ### The Hacker Playbook (Volumes 1, 2 e 3)  
 **Autor:** Peter Kim  
 **Foco:** Pentest e Red Team corporativo  
-**Conteúdo-chave:**
-- Metodologia prática
-- Ataques encadeados
-- Exploração realista em ambientes empresariais
-- Active Directory ofensivo (Volume 3)
-
----
-
-## 🏢 Active Directory & Infra Corporativa
-
-### Red Team Development and Operations  
-**Autor:** Joe Vest  
-**Foco:** Operações avançadas de Red Team  
-**Conteúdo-chave:**
-- Infraestrutura ofensiva
-- Command & Control (C2)
-- OPSEC
-- Planejamento de campanhas ofensivas
 
 ---
 
@@ -376,21 +356,12 @@ Lista curada de livros **clássicos e amplamente reconhecidos** em **Offensive S
 ### Practical Malware Analysis  
 **Autores:** Michael Sikorski, Andrew Honig  
 **Foco:** Análise de malware  
-**Conteúdo-chave:**
-- Engenharia reversa
-- Debugging e unpacking
-- Análise estática e dinâmica
-- Base técnica para bypass de EDR
 
 ---
 
 ### The Shellcoder’s Handbook  
 **Autores:** Chris Anley et al.  
 **Foco:** Exploit development avançado  
-**Conteúdo-chave:**
-- Desenvolvimento de shellcode
-- Bypass de proteções modernas
-- Técnicas avançadas de exploração
 
 ---
 
@@ -399,48 +370,22 @@ Lista curada de livros **clássicos e amplamente reconhecidos** em **Offensive S
 ### Ghost in the Wires  
 **Autor:** Kevin Mitnick  
 **Foco:** Engenharia social e mindset  
-**Conteúdo-chave:**
-- Ataques humanos
-- Técnicas de manipulação
-- Casos reais de invasão
 
 ---
 
 ### The Cuckoo’s Egg  
 **Autor:** Clifford Stoll  
-**Foco:** História da segurança ofensiva  
-**Conteúdo-chave:**
-- Investigação de intrusão
-- Rastreamento de atacantes
-- Fundamentos históricos da segurança ofensiva
+**Foco:** história e investigação de intrusão  
 
 ---
+
 # 🔴 Offensive Security – Canais Essenciais (Pentest & Red Team)
 
 ### Penegui
-- Pentest prático
-- Exploração realista
-- Linguagem direta e sem firula
-- Muito bom para quem quer sair do básico
-
 YouTube: https://www.youtube.com/@penegui
 
----
-
 ### Prof. Julio Della Flora
-- Pentest, segurança ofensiva e redes
-- Conteúdo didático e técnico
-- Excelente base para quem está estruturando o conhecimento
-
 YouTube: https://www.youtube.com/@HardwareHacking
 
----
-
-### Gabriel Pato (Pato Academy / Offensive)
-- Pentest e CTFs
-- Raciocínio ofensivo
-- Conteúdo técnico e bem explicado
-
+### Gabriel Pato
 YouTube: https://www.youtube.com/@gabrielpato
-
----
