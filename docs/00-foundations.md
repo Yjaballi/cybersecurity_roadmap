@@ -152,7 +152,6 @@ Esta seção separa **cursos (formação e aprendizado)** de **certificações (
   > Inglês técnico intermediário: leitura avançada de documentação, comunicação profissional, reuniões técnicas e troubleshooting.
 
 ---
----
 
 ## 🏅 Certificações (Validação de Conhecimento)
 
