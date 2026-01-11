@@ -292,3 +292,139 @@ Pentest **profissional** segue metodologia. Framework ≠ burocracia.
 - Red Team bom **eleva o Blue Team**
 
 ---
+
+# 📚 Offensive Security – Livros Essenciais
+
+Lista curada de livros **clássicos e amplamente reconhecidos** em **Offensive Security**, Pentest, Red Team, Exploit Development e Malware Analysis.
+
+---
+
+## 🧱 Fundamentos de Offensive Security
+
+### The Web Application Hacker’s Handbook  
+**Autores:** Dafydd Stuttard, Marcus Pinto  
+**Foco:** Pentest Web  
+**Conteúdo-chave:**
+- HTTP, sessões e autenticação
+- SQL Injection, XSS, CSRF
+- Falhas de lógica de negócio
+- Mentalidade ofensiva aplicada a aplicações web
+
+---
+
+### Hacking: The Art of Exploitation  
+**Autor:** Jon Erickson  
+**Foco:** Exploração de baixo nível  
+**Conteúdo-chave:**
+- C, memória, stack e heap
+- Buffer overflow
+- Shellcode
+- Exploit development sem dependência de ferramentas prontas
+
+---
+
+## 🔴 Pentest & Red Team (Operação Real)
+
+### Metasploit: The Penetration Tester’s Guide  
+**Autores:** David Kennedy et al.  
+**Foco:** Exploração com Metasploit  
+**Conteúdo-chave:**
+- Exploits e payloads
+- Pós-exploração
+- Pivoting e automação
+- Uso profissional do framework
+
+---
+
+### Red Team Field Manual (RTFM)  
+**Autor:** Ben Clark  
+**Foco:** Red Team operacional  
+**Conteúdo-chave:**
+- Cheatsheets ofensivos
+- Comandos Windows, Linux e Active Directory
+- Enumeração e movimento lateral
+- Uso em campo (guia rápido)
+
+---
+
+### The Hacker Playbook (Volumes 1, 2 e 3)  
+**Autor:** Peter Kim  
+**Foco:** Pentest e Red Team corporativo  
+**Conteúdo-chave:**
+- Metodologia prática
+- Ataques encadeados
+- Exploração realista em ambientes empresariais
+- Active Directory ofensivo (Volume 3)
+
+---
+
+## 🏢 Active Directory & Infra Corporativa
+
+### Red Team Development and Operations  
+**Autor:** Joe Vest  
+**Foco:** Operações avançadas de Red Team  
+**Conteúdo-chave:**
+- Infraestrutura ofensiva
+- Command & Control (C2)
+- OPSEC
+- Planejamento de campanhas ofensivas
+
+---
+
+## 🦠 Malware, Reverse Engineering & Exploit Dev
+
+### Practical Malware Analysis  
+**Autores:** Michael Sikorski, Andrew Honig  
+**Foco:** Análise de malware  
+**Conteúdo-chave:**
+- Engenharia reversa
+- Debugging e unpacking
+- Análise estática e dinâmica
+- Base técnica para bypass de EDR
+
+---
+
+### The Shellcoder’s Handbook  
+**Autores:** Chris Anley et al.  
+**Foco:** Exploit development avançado  
+**Conteúdo-chave:**
+- Desenvolvimento de shellcode
+- Bypass de proteções modernas
+- Técnicas avançadas de exploração
+
+---
+
+## 🧠 Mentalidade Ofensiva & Engenharia Social
+
+### Ghost in the Wires  
+**Autor:** Kevin Mitnick  
+**Foco:** Engenharia social e mindset  
+**Conteúdo-chave:**
+- Ataques humanos
+- Técnicas de manipulação
+- Casos reais de invasão
+
+---
+
+### The Cuckoo’s Egg  
+**Autor:** Clifford Stoll  
+**Foco:** História da segurança ofensiva  
+**Conteúdo-chave:**
+- Investigação de intrusão
+- Rastreamento de atacantes
+- Fundamentos históricos da segurança ofensiva
+
+---
+
+## 🎯 Observação Final
+
+Esses livros **não ensinam só ferramentas**, mas:
+- Mentalidade ofensiva
+- Encadeamento de ataques
+- Pensamento crítico
+- Fundamentos técnicos sólidos
+
+São leitura recorrente em trilhas de **Pentest, Red Team, Malware Research e Exploit Development**.
+
+---
+
