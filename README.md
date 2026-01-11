@@ -73,6 +73,7 @@ Este repositório reúne **carreiras, trilhas técnicas, habilidades e certifica
 ### 🟦 Defesa & Operações
 - [Blue Team / SOC](docs/01-blue-team.md)
 - [DFIR / IR](docs/02-dfir.md)
+- [Perícia Forense Digital](docs/14-pericia-forense-digital.md)
 
 ### 🔴 Ofensivo
 - [Red Team / Pentest](docs/03-red-team.md)
