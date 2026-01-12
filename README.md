@@ -42,19 +42,19 @@ Para complementar o estudo individual, este roadmap também incentiva **troca pr
 ### 💬 Grupos Oficiais / Parceiros
 
 - **WhatsApp CyberSec Brasil**  
-  🔗 Link do grupo: https://chat.whatsapp.com/Hqg64PFZxBg9OuyalphEHC
+  🔗 https://chat.whatsapp.com/Hqg64PFZxBg9OuyalphEHC
 
 - **Discord CyberSec Brasil**  
-  🔗Link do Discord: https://discord.gg/hp5kqc7emr
+  🔗 https://discord.gg/hp5kqc7emr
 
-- **Grupo de Vagas CyberSec Brasil** 
-  🔗Link do WhatsApp: https://chat.whatsapp.com/BQTEtNgtdvN3lr7FFservA
+- **Grupo de Vagas – CyberSec Brasil**  
+  🔗 https://chat.whatsapp.com/BQTEtNgtdvN3lr7FFservA
 
-- **Grupo Information Security Community*  
-  🔗Link do Discord: https://discord.com/invite/Bfx9DHSh
+- **Information Security Community**  
+  🔗 https://discord.com/invite/Bfx9DHSh
 
-- **CTI News**
-  🔗Link do WhatsApp: https://chat.whatsapp.com/Di2IOdTG0hLGxEL7N1izQN
+- **CTI News**  
+  🔗 https://chat.whatsapp.com/Di2IOdTG0hLGxEL7N1izQN
   
 
 > 💡 **Boa prática**  
