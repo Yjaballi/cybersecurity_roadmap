@@ -262,6 +262,7 @@ Resposta no SOC **não é forense profunda**, é **contenção, decisão rápida
 - ISC2 SSCP
 - GIAC (GSEC, GCIA, GCIH, GCED, GMON)
 - Microsoft SC-200 / SC-100
+- CompTIA Security+
 
 ---
 
