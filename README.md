@@ -28,6 +28,38 @@ Este repositório reúne **carreiras, trilhas técnicas, habilidades e certifica
 > **onde as pessoas erram ao entrar na área** e **como usar este roadmap corretamente**.
 
 ---
+
+## 🤝 Comunidade & Networking
+
+Para complementar o estudo individual, este roadmap também incentiva **troca prática entre pessoas**, dúvidas do dia a dia e networking técnico.
+
+> 📌 Estes espaços **não substituem estudo**, mas ajudam a:
+> - trocar experiências reais
+> - validar decisões de carreira
+> - compartilhar oportunidades
+> - reduzir isolamento comum na área
+
+### 💬 Grupos Oficiais / Parceiros
+
+- **WhatsApp CyberSec Brasil**  
+  🔗 Link do grupo: https://chat.whatsapp.com/Hqg64PFZxBg9OuyalphEHC
+
+- **Discord CyberSec Brasil**  
+  🔗Link do Discord: https://discord.gg/hp5kqc7emr
+
+- **Grupo de Vagas CyberSec Brasil*  
+  🔗Link do Discord: https://chat.whatsapp.com/BQTEtNgtdvN3lr7FFservA
+
+  - **Grupo Information Security Community*  
+  🔗Link do Discord: https://discord.com/invite/Bfx9DHSh
+  
+
+> 💡 **Boa prática**  
+> Use grupos para **discussão técnica, dúvidas objetivas e troca profissional**.  
+> Evite spam, atalhos milagrosos e comparações irreais de carreira.
+
+---
+
 ## 🎯 Objetivos do Roadmap
 
 - 🧭 Ser um **roadmap vivo** (não um material estático)
