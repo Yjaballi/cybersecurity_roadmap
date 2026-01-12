@@ -92,11 +92,11 @@ Este repositório reúne **carreiras, trilhas técnicas, habilidades e certifica
 - [Cyber Threat Intelligence](docs/09-cti.md)
 - [OT / ICS Security](docs/10-ot-ics.md)
 
-### 🏛️ Estratégia & Futuro
+### 🏛️ Estratégia, Gestão & Futuro
 - [Arquitetura & Executivo](docs/11-executive-architecture.md)
+- [Gerente de Projetos (Cibersegurança & Tecnologia)](docs/17-gerente-de-projetos.md)
 - [Segurança de IA](docs/12-ai-security.md)
 - [Segurança Blockchain & WEB3](docs/15-blockchain-security.md)
-
 
 ---
 
