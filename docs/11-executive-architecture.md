@@ -20,6 +20,34 @@ Esta trilha aborda **arquitetura de segurança e liderança executiva**, conecta
 - **CISO (Chief Information Security Officer)**  
   Responsável pela **estratégia de segurança**, governança, risco, comunicação com board e proteção do negócio.
 
+- **Systems Engineer (Security / Cyber Systems Engineer)**  
+  Atua na **arquitetura técnica ponta a ponta**, integrando múltiplos domínios de segurança (SOC, Cloud, IAM, AppSec, OT, DevSecOps) em soluções **coerentes, operáveis e sustentáveis**.  
+  É responsável por **desenhar como a arquitetura funciona na prática**, garantindo que decisões arquiteturais sejam **implementáveis**, **observáveis** e **defensáveis tecnicamente**.
+
+  Atua fortemente em:
+  - Arquiteturas end-to-end (on-prem, cloud, híbrido)
+  - Integração entre controles (SIEM, EDR, IAM, Cloud, AppSec)
+  - Definição de fluxos operacionais e técnicos
+  - Avaliação de trade-offs técnicos (complexidade, custo, operação)
+  - Suporte técnico a decisões executivas e arquiteturais
+
+  > O Systems Engineer é o elo entre **arquitetura conceitual** e **arquitetura executável**.
+
+- **Sales Engineer / Pre-Sales Engineer (Cybersecurity)**  
+  Atua na **tradução da arquitetura técnica em valor de negócio**, apoiando decisões executivas, processos comerciais e defesa técnica de soluções **sem distorcer a realidade técnica**.
+
+  É um papel **arquitetural e estratégico**, não comercial.
+
+  Atua fortemente em:
+  - Tradução de requisitos de negócio, risco e compliance em arquitetura
+  - Construção e defesa de arquiteturas em processos de decisão
+  - Provas de conceito (POC) e validações técnicas
+  - Comunicação técnica com executivos, gestores e áreas não técnicas
+  - Interface entre engenharia, arquitetura e áreas comerciais
+
+  > O Sales Engineer **não vende ferramenta**.  
+  > Ele **explica decisões arquiteturais sob risco**.
+
 ---
 
 ## 🧠 Habilidades Essenciais
