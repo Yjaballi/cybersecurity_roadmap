@@ -270,3 +270,66 @@ Resposta no SOC **não é forense profunda**, é **contenção, decisão rápida
 
 Blue Team não é só reagir.  
 É **reduzir a chance do ataque dar certo** e **responder rápido quando ele acontece**.
+
+
+---
+
+## 🧱 Exemplos de Fabricantes por Domínio (Referência de Mercado)
+
+> 📌 Esta lista é **ilustrativa**, não prescritiva.  
+> O objetivo é ajudar a **entender o mercado**, não definir stack.
+
+### 🧠 Detection & Response (Core SOC)
+- SIEM: Splunk, Elastic, IBM QRadar, Microsoft Sentinel, Wazuh, ManageEngine, Trio e-Safer
+- EDR / XDR: CrowdStrike, Microsoft Defender, SentinelOne, Sophos, Trend Micro
+- NDR: Vectra AI, Darktrace, ExtraHop, Lumu
+
+---
+
+### 🧩 Exposure Management / Gevul
+- Vulnerability Management: Tenable, Qualys, Rapid7, Ecotrust
+- Exposure Management / ASM: Tenable, XM Cyber, Microsoft Defender EASM, SOCRadar
+- Suporte a priorização por risco: Tenable, Rapid7, XM Cyber
+
+---
+
+### 🌐 Network Security Controls
+- Firewall / NGFW: Palo Alto Networks, Check Point, Cisco
+- IDS / IPS: Suricata, Snort, Cisco, Palo Alto Networks
+- NDR / Network Analytics: ExtraHop, Vectra AI, Darktrace, Lumu
+
+---
+
+### 🔐 Application Perimeter (WAAP)
+- WAF / WAAP: Akamai, Cloudflare, Imperva, Cequence
+- API Security: Cequence, Akamai, Salt Security
+- Bot Management: Akamai, Cloudflare, Imperva, Cequence
+
+---
+
+### 🖥️ Endpoint Protection
+- EDR: CrowdStrike, Microsoft Defender, SentinelOne, Sophos, Trend Micro
+- XDR: Palo Alto Cortex, Microsoft, Sophos, Trend Micro
+
+---
+
+### 🤖 Automation & Orchestration
+- SOAR: Splunk SOAR, Cortex XSOAR, Swimlane, ManageEngine
+- Automação Corporativa: ManageEngine, ServiceNow
+- Scripts: Python, PowerShell, Bash
+
+---
+
+### 📊 Logging & Telemetry
+- Agentes e coleta: Wazuh, Elastic Agent, Splunk UF, ManageEngine
+- Cloud Logs: AWS CloudTrail, Azure Monitor, GCP Logging
+- APIs e integrações: nativas de vendors + custom
+
+---
+
+### 🛡️ Hardening & Preventive Controls
+- Patch Management: ManageEngine, Microsoft, Tenable
+- Baselines / CIS: CIS Benchmarks, Microsoft Security Baselines
+- Compliance técnico: scripts, GPOs, IaC security
+
+---
