@@ -307,7 +307,7 @@ Pentest **profissional** segue metodologia. Framework ≠ burocracia.
 - **CompTIA PenTest+**  
   https://www.comptia.org/certifications/pentest  
 
-- **DESEC Pentest Certified (DPC)**  
+- **DESEC Pentest Certified (DPCT)**  
   https://desecsecurity.com/certificacoes/  
 
 - **eJPT – Junior Penetration Tester**  
