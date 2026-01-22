@@ -207,6 +207,7 @@ https://www.securityblue.team/courses/introduction-to-network-analysis
 
 **Linux**  
 NDG Linux Essentials – Cisco NetAcad
+
 https://www.netacad.com/courses/os-it/ndg-linux-essentials  
 
 Base Fundamental - Linux - SECDAY
