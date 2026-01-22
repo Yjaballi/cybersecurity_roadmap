@@ -184,14 +184,29 @@ Sem estes fundamentos, não existe SOC eficiente, Red Team consistente, CTI de q
 > Esta seção separa **formação** de **validação de conhecimento**, conforme boas práticas de roadmap profissional.
 
 ### 📘 Cursos (Formação)
+**Introdução a CyberSecurity**
+Introdução a CyberSecurity 
+https://academy.secday.com.br/cursos/introducao-a-cibersecurity/
+
+Introdução à Cibersegurança - Cisco NetAcad 
+https://www.netacad.com/pt/courses/introduction-to-cybersecurity?courseLang=pt-BR
 
 **Redes**  
 Cisco Networking Essentials – Cisco NetAcad  
 https://www.netacad.com/courses/networking/networking-essentials  
 
+Base Fundamental - Redes - SECDAY
+https://academy.secday.com.br/cursos/fundamentos-base-redes/
+
+Introduction to Network Analysis - SECURITY BLUE TEAM
+https://www.securityblue.team/courses/introduction-to-network-analysis
+
 **Linux**  
 NDG Linux Essentials – Cisco NetAcad  
 https://www.netacad.com/courses/os-it/ndg-linux-essentials  
+
+Base Fundamental - Linux - SECDAY
+https://academy.secday.com.br/cursos/linux/
 
 **Inglês Técnico para TI**  
 English for IT 1  
@@ -199,6 +214,13 @@ https://www.netacad.com/courses/english-for-it/english-for-it-1
 
 English for IT 2  
 https://www.netacad.com/courses/english-for-it/english-for-it-2  
+
+**Virtualização**
+Base Fundamental - Virtualização - SECDAY
+https://academy.secday.com.br/cursos/fundamentos-base-virtualizacao/
+
+Introduction to Virtual Machines -  - SECURITY BLUE TEAM
+https://www.securityblue.team/courses/introduction-to-virtual-machines
 
 ---
 
